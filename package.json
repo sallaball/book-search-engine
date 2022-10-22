@@ -25,5 +25,13 @@
     "concurrently": "^7.4.0",
     "nodemon": "^2.0.3"
   },
-  "description": ""
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sallaball/book-search-engine.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sallaball/book-search-engine/issues"
+  },
+  "homepage": "https://github.com/sallaball/book-search-engine#readme"
 }
